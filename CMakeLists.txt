@@ -10,6 +10,6 @@ add_executable(CS50_Introduction
 #        problem2/scrabble/scrabble.c
 #        problem2/readability/readability.c
 #        problem2/caesar/caesar.c
-        problem3/plurality/plurality.c
-        problem4/volume/volume.c
+        2024/problem3/plurality/plurality.c
+        2024/problem4/volume/volume.c
 )
